@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Kaleb Getachew <br> <hr>
-💻 Full-Stack Developer | Crafting seamless web experiences with Laravel PHP.<br>🛠️ Tech Stack: Laravel | PHP | MySQL | JavaScript | (More to come!)<br>🚀 Currently working on: Building scalable web applications with Laravel.<br>🌱 Learning: Django (Python) to expand my backend expertise.<br>✨ Fun fact: I once coded an entire project in one sitting fueled by coffee and determination! ☕💪<br>📫 Let's connect: LinkedIn
+# 👋 Hi, I'm Kaleb Getachew <br>
+I'm 💻Full-Stack Developer Crafting seamless web experiences with Laravel PHP.<br>🛠️ Tech Stack: Laravel | PHP | MySQL | JavaScript | (More to come!)<br>🚀 Currently working on: Building scalable web applications with Laravel.<br>🌱 Learning: Django (Python) to expand my backend expertise.<br>✨ Fun fact: I once coded an entire project in one sitting fueled by coffee and determination! ☕💪<br>📫 Let's connect: LinkedIn
 
 
 ## 🌐 Socials:
